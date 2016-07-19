@@ -1,6 +1,4 @@
-#CS492 Visual Cryptography
-
-#Signature Authentication with Timestamp Water-marking
+#Visible Watermarking app
 
 Order) make key.py -> watermarking.py -> auth.py
 
